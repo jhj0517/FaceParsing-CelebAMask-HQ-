@@ -7,7 +7,7 @@ goto :activate_venv
 pause
 
 :activate_venv
-set PYTHON="%~dp0%VENV_DIR%\venv\Scripts\Python.exe"
+set PYTHON="%~dp0\venv\Scripts\Python.exe"
 echo venv %PYTHON%
 goto :launch
 

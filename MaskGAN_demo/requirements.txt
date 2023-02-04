@@ -3,7 +3,7 @@ opencv-python
 PyYAML
 image
 --extra-index-url https://download.pytorch.org/whl/cu117
-torch==0.4.1 
+torch
 --extra-index-url https://download.pytorch.org/whl/cu117
 torchvision 
 --extra-index-url https://download.pytorch.org/whl/cu117
